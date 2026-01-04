@@ -2,7 +2,7 @@
 Web Development Task 3 – Prodigy Infotech Internship.
 # 🎮 Tic Tac Toe Game (Web)
 
-Live Demo :- https://sabirshaikh712.github.io/PRODIGY_WD_01PRODIGY_WD_03/
+Live Demo :- https://sabirshaikh712.github.io/PRODIGY_WD_03/
 
 This is a **Tic Tac Toe web application** built using **HTML, CSS, and JavaScript**.  
 The game supports **Two Player mode** as well as **Player vs Computer mode** with multiple difficulty levels.
